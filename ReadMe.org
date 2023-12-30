@@ -5,10 +5,12 @@ by Aimone et al. 2022
 https://doi.org/G8S4.
 It is released for transparency,
 as an aid in understanding the work.
-This code is for the ToMoV (tomato, whitefly) analysis;
+This code is for the ToMoV (tomato, whitefly) analysis
+(Zenodo record 8137109);
 the cassava virus analysis
-has been archived at Zenodo.org
-via a separate GitHub repository.
+was archived at Zenodo.org
+via a separate GitHub repository
+(Zenodo record 8136984).
 If someone can reuse the code
 (after adjusting paths)
 that is great,
